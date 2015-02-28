@@ -10,7 +10,7 @@ This vm works with trusty64 box, if you want to change the box just edit the nex
 
 config.vm.box = "trusty64"
 
-#Msql
+#Mysql
 default password for mysql root will be "pass".
 
 #Follow me

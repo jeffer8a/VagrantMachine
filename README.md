@@ -13,5 +13,8 @@ config.vm.box = "trusty64"
 #Msql
 default password for mysql root will be "pass".
 
+#Follow me
+www.jefferochoa.com.ve
+twitter: @jeffer_8a
 
 Enjoy it!
